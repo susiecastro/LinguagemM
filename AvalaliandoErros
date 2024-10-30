@@ -7,3 +7,6 @@
 5 - Uma nova coluna será acrescentada
 6 - Expanda a coluna
 7 - Clique em HasError e dê um Ok
+8 - Filtre os dadospara TRUE
+
+Agora todos os erros estão visiveis na tabela para avaliação
