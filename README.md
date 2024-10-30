@@ -21,7 +21,7 @@
 
 Agora todos os erros estão visiveis na tabela para avaliação
 
-<b> Transformando planilha anual de orçamento em planilha mensal no PowerQuery </>
+<b> Transformando planilha anual de orçamento em planilha mensal no PowerQuery </b>
 
 Planilha modelo:
 
