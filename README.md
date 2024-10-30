@@ -113,11 +113,17 @@ https://www.anbima.com.br/feriados/fer_nacionais/2019.asp
 
 22 - Na consulta referencia clique com o botão direito na coluna Ano e clique em Remover outras colunas.
 
-23 - Clique novamente com o botão direito e na opção Remover Duplicatas
+23 - Clique novamente com o botão direito e na opção Remover Duplicadas
 
 24 - Altere o tipo de dados de Número Inteiro para Texto
 
 25 - Selecione a Coluna Ano - Clique em Adicionar Coluna - Invocar Função Personalizada
+
+26 - Nome da Coluna - Feriados - Invocar Função: fnFeriados
+
+27 - Clique no botão Expandir na nova Coluna
+
+28 - Altere os tipos de Dados conforme desejar
 
 
 
