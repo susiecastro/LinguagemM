@@ -180,6 +180,43 @@ Planilha modelo:
 
 7 - Agora o valor total do orçamento está distribuido por mês.
 
+<b>Dividindo Linhas e Colunas</b>
+
+Tabela a ser tratada:
+![image](https://github.com/user-attachments/assets/c424fc84-67b7-49f1-8c67-0a516a87132a)
+
+1 - Importe para o PowerQuery
+
+2 - Clique na coluna resultados
+
+3 - Em Página Inicial cliquem no botão Dividir colunas Por delimitador - delimitador: virgula - Cada Ocorrência.
+Clique em Opções Avançadas - marque Linhas
+
+4 - A tabela ficará assim:
+
+![image](https://github.com/user-attachments/assets/a29bf67a-37ab-489c-9c4a-b1143c4459fd)
+
+5 - Clique novamente em Resultados
+
+6 - Acione novamente o botão Dividir Colunas
+
+7 - Delimitador : dois pontos - Cada Ocorrência
+
+8 - A tabela ficará assim:
+
+![image](https://github.com/user-attachments/assets/3e9bafa4-2749-4394-a931-a05ee79c399c)
+
+9 - Observe que na coluna há 4 valores distintos. Isto deve-se a algum espaço que está no inicio ou no final de cada palavra
+
+10 - Para corrigir  isto vá em Transformar - Formato - Cortar
+
+11 - Então a tabela ficará assim:
+
+![image](https://github.com/user-attachments/assets/ca215ba4-2005-409c-86c2-b10923ad8f88)
+
+
+
+
 
 
 
