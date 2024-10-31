@@ -214,6 +214,56 @@ Clique em Opções Avançadas - marque Linhas
 
 ![image](https://github.com/user-attachments/assets/ca215ba4-2005-409c-86c2-b10923ad8f88)
 
+<b> Transposição de Tabela e Convertendo Tabela em linhas</b>
+
+Desafio transformar a tabela abaixo na estrutura tabular:
+
+![image](https://github.com/user-attachments/assets/8e822f43-906a-479f-ae04-2ca4bc069a2f)
+
+1 - Importe a tabela para o PowerQuery
+
+2 - Remova as etapas feitas automaticamente no carregamento da planilha - Tipo Alterado e Cabeçalhos Promovidos
+
+3 - Na Coluna onde está Categoria 1 e Categoria 2 (primeira coluna) - Selecione e acesse - Transformar - Preencher para Baixo ![image](https://github.com/user-attachments/assets/382e93aa-4347-4f9b-8658-74f05b98c79e)
+
+4 - Na segunda coluna Filtre e desabilite o Total
+
+5 - Selecione as duas primeiras colunas - Clique com o botão direito - Mesclar Colunas
+
+![image](https://github.com/user-attachments/assets/dfc48a82-32e4-42d5-91ef-f655f02b0cb2)
+
+6 - Em separador pode escolher um de sua preferência e clique em ok
+
+![image](https://github.com/user-attachments/assets/45496082-b0ee-4a5b-a724-bc5ba9a98af5)
+
+7 - Agora clique em Transformar - Transpor
+
+8 - Novamente na primeira coluna - Transformar - Transformar - Preencher para Baixo ![image](https://github.com/user-attachments/assets/382e93aa-4347-4f9b-8658-74f05b98c79e)
+
+9 - Promova os Cabeçalhos da estrutura existente
+
+![image](https://github.com/user-attachments/assets/110eb01b-ffb8-47f8-9689-318b1950205c)
+
+10 - Selecione as duas primeiras colunas e clique em - Transformar outras colunas em linhas
+
+![image](https://github.com/user-attachments/assets/f359dbd4-d6f6-4941-a2eb-33f1118d5e98)
+
+12 - Clique na Coluna Atributo - Dividir Coluna - Por Delimitador:
+
+![image](https://github.com/user-attachments/assets/040983d9-56b9-4dcf-b707-56d2e4969ee2)
+
+13 - Coloque o mesmo delimitador que você colocou no passo 3:
+
+![image](https://github.com/user-attachments/assets/46ce7d8c-4bd4-43b0-872a-1181833d15cc)
+
+14 - Renomeie as colunas e configure os tipos de dados. Segue sugestão na imagem abaixo:
+
+![image](https://github.com/user-attachments/assets/e2f5ff26-7485-4781-8b9b-db885bd18407)
+
+
+
+
+
 
 
 
